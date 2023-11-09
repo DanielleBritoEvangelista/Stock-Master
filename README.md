@@ -1,25 +1,50 @@
-# Stock Master
+# Stock Master - Projeto em Desenvolvimento
 
+![Stock Master Logo](/path-to-your-logo.png)
 
-**Stock Master** é um sistema de gerenciamento de estoque e suprimentos que permite o controle eficiente dos materiais da sua empresa, gerenciamento por setores e solicitação de materiais em falta. Este projeto é composto por um back-end desenvolvido em Laravel e um front-end em Angular.
+## Visão Geral
 
-## Recursos Principais
+**Stock Master** é um sistema em desenvolvimento de gerenciamento de estoque e suprimentos que visa proporcionar um controle eficiente dos materiais em uma empresa. O projeto é composto por um back-end desenvolvido em Laravel e um front-end em Angular.
 
-- Gerenciamento de Materiais: Cadastre e controle todos os materiais disponíveis na empresa, incluindo nome, descrição, quantidade, fornecedor, entre outros detalhes.
+## Metodologia Scrum
 
-- Controle de Setores: Organize os materiais por setores (departamentos) para garantir o acesso restrito e gerenciar o estoque de cada área.
+Este projeto segue a metodologia ágil Scrum para o desenvolvimento de software. As sprints, revisões e retrospectivas são conduzidas regularmente para garantir um progresso eficiente e uma comunicação transparente dentro da equipe.
 
-- Solicitações de Materiais: Os funcionários de cada setor podem fazer solicitações de materiais em falta, especificando a quantidade desejada e fornecendo uma justificativa.
+## Recursos Planejados
 
-- Aprovação de Solicitações: O responsável pelo estoque pode aprovar ou negar as solicitações pendentes, mantendo um controle rigoroso das operações de suprimento.
+- **Gerenciamento de Materiais:** Cadastro e controle de materiais com detalhes como nome, descrição, quantidade, fornecedor, etc.
 
-- Relatórios e Dashboards: Acompanhe o estoque atual, visualize o histórico de solicitações, gere relatórios personalizados e mantenha um controle abrangente das operações de suprimento.
+- **Controle de Setores:** Organização de materiais por setores para acesso restrito e gerenciamento por departamento.
 
-## Em Desenvolvimento
+- **Solicitações de Materiais:** Funcionários podem solicitar materiais em falta com quantidade desejada e justificativa.
 
-Neste momento, a equipe de desenvolvimento está trabalhando nas seguintes funcionalidades:
+- **Aprovação de Solicitações:** Responsável pelo estoque pode aprovar ou negar solicitações pendentes.
+
+- **Relatórios e Dashboards:** Acompanhamento do estoque, histórico de solicitações e geração de relatórios personalizados.
+
+## Funcionalidades em Desenvolvimento
 
 - [ ] Página de Login
 - [ ] Página Inicial do Responsável pelo Estoque
 - [ ] Página de Solicitação de Material
 - [ ] Lógica de Aprovação de Solicitações
+
+## Protótipo Figma
+
+Acesse o protótipo do projeto no Figma para visualizar o design e a experiência do usuário: [Protótipo Figma](https://www.figma.com/...)
+
+## Apresentação em Vídeo
+
+Assista à apresentação em vídeo do projeto para obter uma visão geral das funcionalidades e objetivos: [Vídeo de Apresentação](https://www.youtube.com/...)
+
+## Contribuições
+
+Contribuições são bem-vindas! Se deseja contribuir para o projeto, siga as instruções no README de como contribuir.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
+
+---
+
+**Stock Master** é um projeto em desenvolvimento contínuo. Novas funcionalidades e melhorias estão a caminho. Caso tenha dúvidas, problemas ou sugestões, fique à vontade para criar [issues](https://github.com/seu-usuario/stock-master/issues) ou entrar em contato com a equipe de desenvolvimento.
